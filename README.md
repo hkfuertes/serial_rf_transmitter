@@ -1,6 +1,11 @@
 # serial_rf_transmitter
 Simple script to enable RFsend commands over usb serial. The commands are expected to be sent in HEX format (0x0...) and the only length stablished is 24bit.
 
+## 3D Case/Stand
+I repuposed [this](https://www.thingiverse.com/thing:3742725) case from *thingiverse* to accomodate the RF transmitter and the Arduino Nano with a little bit of hot glue.
+
+![MySetup](mySetup.jpg)
+
 ## Connection
 
 Here is my setup as an example:
